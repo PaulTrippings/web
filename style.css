@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{color: black;}
+
+button{
+    background-color:lightblue;
+    width: 100px;
+    height: 25px;
+}
